@@ -6,8 +6,9 @@ I solve it using brute force algorithm in c
   
 
 What you expect from the Detailed Explanation Document  
-
   
+![alt text](https://github.com/OmarElfatatry/Crossword-Puzzle-hackerrank_Using_C/blob/main/06.png?raw=true)  
+
 # Results
   
 ![alt text](https://github.com/OmarElfatatry/Crossword-Puzzle-hackerrank_Using_C/blob/main/01.png?raw=true)  
@@ -26,4 +27,7 @@ The solved puzzle
   
 Expected solution  
   
-![alt text](https://github.com/OmarElfatatry/Crossword-Puzzle-hackerrank_Using_C/blob/main/05.png?raw=true) 
+![alt text](https://github.com/OmarElfatatry/Crossword-Puzzle-hackerrank_Using_C/blob/main/05.png?raw=true)  
+  
+Problem Link:  
+https://www.hackerrank.com/challenges/crossword-puzzle
